@@ -7,7 +7,7 @@ import board
 import neopixel
 import time
 
-client=Wit("Q7I3QBGHHUNXA3VA7KZCGTBW5QHIPHSG")
+client=Wit("")  # tutaj wstawić nr tokenu
 piksele=neopixel.NeoPixel(board.D18,300,auto_write=False)
 
 def swiatelka():
