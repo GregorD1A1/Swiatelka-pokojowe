@@ -1,8 +1,8 @@
-# Swiatelka-pokojowe
-Romantyczne światełka do pokoju, sterowane głosem.
+# Ambient Room Lights
+Voice-controlled romantic ambient lights for your room.
 
-randka.py - program główny
+randka.py - primary program
 
-randka_manualna.py - uproszczona wersja bez sterowania głosowego.
+randka_manualna.py - simplified version without voice control, with manual start.
 
-randka_flask.py - wersja bez aktywacji manualnej, oparta na komunikacji klient-serwer zamiast dwurdzeniowości.
+randka_flask.py - version without manual activation, based on client-server communication instead of dual-core processing.
